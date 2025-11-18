@@ -1,4 +1,4 @@
-Sleep Apnea Event Prediction using PPG Signals
+##Sleep Apnea Event Prediction using PPG Signals
 
 A 1D Convolutional Neural Network (CNN) built in PyTorch to predict upcoming sleep apnea events. The model analyzes 30-second windows of a patient's Photoplethysmography (PPG) signal to forecast an apnea event 5 seconds in the future.
 
